@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TalelAlAjam, a mechanical engineer in the manufacturing field exploring software development.
+- 👀 I’m interested in building anything that solves a problem, from software to mechanical.
+- 🌱 I’m currently learning python, javascript, and all things related to backend technologies.
+- I prefer to design solutions that are transparent and methodical.
+- 📫 How to reach me linkedin.com/in/talelalajam
